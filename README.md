@@ -30,7 +30,7 @@ Prototype classifying 5,000+ student-AI prompts at a time to study self-regulate
 
 I lead engineering for United AI, Syracuse's first student-run AI org, where I mentor other students on ML and agent-based systems and run workshops on current tooling. I'm also an AI Fellow through Break Through Tech (Cornell-affiliated).
 
-Outside of that — I skateboard. It's the one part of my week that has nothing to do with a screen, and honestly it's where most of my better ideas show up.
+Outside of that, I skateboard, snowboard, and love going to the gym.
 
 ## Reach me
 
