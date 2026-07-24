@@ -1,5 +1,7 @@
 # Adam Walid
+
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwalid64&show_icons=true&theme=default)
+
 CS student at Syracuse University (minor in Data Analytics), currently building AI agents for pharma consulting at Axtria. Most of what I work on lives somewhere between applied ML and full-stack — models are only useful if someone can actually use them, so I usually end up building the interface too.
 
 NYC/NJ area · Class of 2027
